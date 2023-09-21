@@ -110,15 +110,15 @@ body {
   opacity: 1;
 }
 
-@media (max-width: 390px) and (max-height: 844px) {
+@media (max-width: 600px) and (max-height: 914px) {
   .logo {
-    max-width: 200px;
+    max-width: 220px;
   }
   .container-input {
-    max-width: 200px;
+    max-width: 220px;
     margin: 14px 0;
   }
   .title {
-    font-size: 20px;
+    font-size: 22px;
   }
 }
